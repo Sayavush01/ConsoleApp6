@@ -1,0 +1,14 @@
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\bin\Debug\net8.0\Match.exe
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\bin\Debug\net8.0\Match.deps.json
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\bin\Debug\net8.0\Match.runtimeconfig.json
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\bin\Debug\net8.0\Match.dll
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\bin\Debug\net8.0\Match.pdb
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\obj\Debug\net8.0\Match.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\obj\Debug\net8.0\Match.AssemblyInfoInputs.cache
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\obj\Debug\net8.0\Match.AssemblyInfo.cs
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\obj\Debug\net8.0\Match.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\obj\Debug\net8.0\Match.dll
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\obj\Debug\net8.0\refint\Match.dll
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\obj\Debug\net8.0\Match.pdb
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\obj\Debug\net8.0\Match.genruntimeconfig.cache
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Match\obj\Debug\net8.0\ref\Match.dll
