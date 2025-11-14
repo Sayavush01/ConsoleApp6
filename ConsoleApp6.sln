@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp6", "ConsoleApp6\ConsoleApp6.csproj", "{8F6D95B8-160F-44DD-9D81-E6D47C4CF1C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Match", "Match\Match.csproj", "{0C6D9C3C-7EDB-4151-AD64-8A9F4A3E1949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group", "Group\Group.csproj", "{B085AD10-9428-44AD-85D0-BA6E49FE413C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0C6D9C3C-7EDB-4151-AD64-8A9F4A3E1949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C6D9C3C-7EDB-4151-AD64-8A9F4A3E1949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C6D9C3C-7EDB-4151-AD64-8A9F4A3E1949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B085AD10-9428-44AD-85D0-BA6E49FE413C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B085AD10-9428-44AD-85D0-BA6E49FE413C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B085AD10-9428-44AD-85D0-BA6E49FE413C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B085AD10-9428-44AD-85D0-BA6E49FE413C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

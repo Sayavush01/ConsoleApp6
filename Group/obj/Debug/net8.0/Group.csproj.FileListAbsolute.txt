@@ -1,0 +1,15 @@
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\bin\Debug\net8.0\Group.exe
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\bin\Debug\net8.0\Group.deps.json
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\bin\Debug\net8.0\Group.runtimeconfig.json
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\bin\Debug\net8.0\Group.dll
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\bin\Debug\net8.0\Group.pdb
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\obj\Debug\net8.0\Group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\obj\Debug\net8.0\Group.AssemblyInfoInputs.cache
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\obj\Debug\net8.0\Group.AssemblyInfo.cs
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\obj\Debug\net8.0\Group.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\obj\Debug\net8.0\Group.sourcelink.json
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\obj\Debug\net8.0\Group.dll
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\obj\Debug\net8.0\refint\Group.dll
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\obj\Debug\net8.0\Group.pdb
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\obj\Debug\net8.0\Group.genruntimeconfig.cache
+C:\Users\Asus TUF\source\repos\ConsoleApp6\Group\obj\Debug\net8.0\ref\Group.dll
